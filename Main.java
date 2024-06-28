@@ -1,6 +1,3 @@
-package HumanClass;
-
-
 // Parent class: Human
 class Human {
     private String name;
